@@ -1,17 +1,15 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
 ---
+Futur Chef d'entreprise en formation,
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+Je serai heureux de vous proposer mes services afin;
 
-## Nos activités
+ de vous dépanner ou de réparer votre vélo.
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+ de détecter la panne de votre électroménager et si c'est possible de la réparer.
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+ d'entretenir votre jardin.
+
+ de vous aider sur votre chantier écologique en neuf ou en rénovation. 
