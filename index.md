@@ -18,12 +18,14 @@ Cette page a pour vocation ...
 
 Ceci est un entrainement et un test,  dans l'optique de créer plus tard un site pour mon entreprise avec son propre nom de domaine
 
-Entretenir
-Réparer
-Assembler
-Monter
-Enduire
-Scier
-Découper
+-Entretenir
+-Réparer
+-Assembler
+-Monter
+-Enduire
+-Scier
+-Découper
+
+** des vélos, des jardins, des projets écologiques neuf et en rénovation **
 
 ... 
