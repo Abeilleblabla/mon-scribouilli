@@ -1,8 +1,29 @@
 ---
-title: Accueil
+title: "Accueil & Présentation"
 order: 0
 ---
+Blablabla moimoimoi mignon supreme
 
-# L'Échappée Belle
+===============
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+![Ecolowtech, nom d'une hypothétique activité assemblée au sol avec des outil et du végétal, mac gyver inside absolute](/images/0076039001628237914.jpg)
+
+# Présentation & éthique
+
+## Présentation
+
+Cette page a pour vocation ...
+
+## Éthique
+
+Ceci est un entrainement et un test,  dans l'optique de créer plus tard un site pour mon entreprise avec son propre nom de domaine
+
+Entretenir
+Réparer
+Assembler
+Monter
+Enduire
+Scier
+Découper
+
+... 
