@@ -2,15 +2,11 @@
 title: "Accueil & Présentation"
 order: 0
 ---
-Blablabla moimoimoi mignon supreme
-
-===============
-
 **Bienvenue**
 
 **Hello World**
 
-![Ecolowtech, nom d'une hypothétique activité assemblée au sol avec des outil et du végétal, mac gyver inside absolute](/images/0076039001628237914.jpg)
+![Eco.low.tech, nom d'une hypothétique activité assemblée au sol avec des outil et du végétal, mac gyver inside absolute](/images/0076039001628237914.jpg)
 
 # Présentation & éthique
 
